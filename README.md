@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @greggydeggy
+- 👀 I’m interested in health, fitness and QA!
+- 🌱 I’m currently learning how to become a valuable QA team member, by becoming efficient in finding and reporting bugs, creating and executing test suites and managing workflow of the SDLC. 
+- 💞️ I’m looking to collaborate on any project needing a QA engineer, to help identify bugs and create test cases for their application.
+- 📫 You can reach me at my email: gregory.samayoa1@gmail.com.
